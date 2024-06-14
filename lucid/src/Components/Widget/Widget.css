@@ -1,0 +1,22 @@
+.widget-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 4rem;
+}
+.widget-box{
+    background-color: #243325;
+    padding: 2rem 1rem;
+    margin: 2rem;
+    border-radius: 1rem;
+    width: 18%;
+}
+.top-icon-text {
+    display: flex;
+    justify-content: space-around;
+    row-gap: 10px;
+}
+.w-text{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}

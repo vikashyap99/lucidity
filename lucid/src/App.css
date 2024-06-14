@@ -1,0 +1,19 @@
+.App {
+    background-color: #1A1D1A;
+    color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+.mx-1{
+    margin: 0 1rem;
+}
+.my-1{
+    margin: 1rem 0rem;
+}
+.px-1{
+    padding: 0 1rem;
+}
+.py-1{
+    padding: 1rem 0;
+}
